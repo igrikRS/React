@@ -5,7 +5,7 @@ import { useAxiosGet } from '../Hooks/HttpRequest'
 
 function Product(){
     const { id } = useParams()
-    const url = `https://raw.githubusercontent.com/igrikRS/React/master/src/Product/${id}`
+    const url = `https://raw.githubusercontent.com/igrikRS/React/master/Products%20App/src/Product/${id}`
 
     let product = useAxiosGet(url)
 
