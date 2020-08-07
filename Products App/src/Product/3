@@ -1,0 +1,34 @@
+{
+	"id": "3",
+	"createdAt": "2020-04-07T19:32:55.499Z",
+	"name": "Handmade Granite Shirt",
+	"material": "Metal",
+	"price": "715.00",
+	"description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit.",
+	"images": [
+		{
+			"id": "3",
+			"productId": "3",
+			"createdAt": "2020-04-08T13:19:04.272Z",
+			"imageUrl": "https://picsum.photos/350/256"
+		},		
+		{
+			"id": "31",
+			"productId": "3",
+			"createdAt": "2020-04-08T19:19:37.490Z",
+			"imageUrl": "https://picsum.photos/350/256"
+		},		
+		{
+			"id": "61",
+			"productId": "3",
+			"createdAt": "2020-04-09T05:15:04.610Z",
+			"imageUrl": "https://picsum.photos/350/256"
+		},		
+		{
+			"id": "84",
+			"productId": "3",
+			"createdAt": "2020-04-10T00:34:34.258Z",
+			"imageUrl": "https://picsum.photos/350/256"
+		}
+	]
+}

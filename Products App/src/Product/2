@@ -1,0 +1,34 @@
+{
+	"id": "2",
+	"createdAt": "2020-04-06T20:15:37.134Z",
+	"name": "Handmade Soft Tuna",
+	"material": "Apple",
+	"price": "237.00",
+	"description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit.",
+	"images": [
+		{
+			"id": "8",
+			"productId": "2",
+			"createdAt": "2020-04-08T13:19:04.272Z",
+			"imageUrl": "https://picsum.photos/350/256"
+		},		
+		{
+			"id": "44",
+			"productId": "2",
+			"createdAt": "2020-04-08T19:19:37.490Z",
+			"imageUrl": "https://picsum.photos/350/256"
+		},		
+		{
+			"id": "64",
+			"productId": "2",
+			"createdAt": "2020-04-09T05:15:04.610Z",
+			"imageUrl": "https://picsum.photos/350/256"
+		},		
+		{
+			"id": "55",
+			"productId": "2",
+			"createdAt": "2020-04-10T00:34:34.258Z",
+			"imageUrl": "https://picsum.photos/350/256"
+		}
+	]
+}

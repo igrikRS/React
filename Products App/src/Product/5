@@ -1,0 +1,34 @@
+{
+	"id": "5",
+	"createdAt": "2020-04-08T09:37:12.535Z",
+	"name": "Gorgeus Cotton Pizza",
+	"material": "Forest",
+	"price": "267.00",
+	"description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit.",
+	"images": [
+		{
+			"id": "5",
+			"productId": "5",
+			"createdAt": "2020-04-08T13:19:04.272Z",
+			"imageUrl": "https://picsum.photos/350/256"
+		},		
+		{
+			"id": "15",
+			"productId": "5",
+			"createdAt": "2020-04-08T19:19:37.490Z",
+			"imageUrl": "https://picsum.photos/350/256"
+		},		
+		{
+			"id": "45",
+			"productId": "5",
+			"createdAt": "2020-04-09T05:15:04.610Z",
+			"imageUrl": "https://picsum.photos/350/256"
+		},		
+		{
+			"id": "75",
+			"productId": "5",
+			"createdAt": "2020-04-10T00:34:34.258Z",
+			"imageUrl": "https://picsum.photos/350/256"
+		}
+	]
+}
